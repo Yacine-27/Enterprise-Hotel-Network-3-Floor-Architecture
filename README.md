@@ -14,7 +14,7 @@ The infrastructure isolates department traffic across three distinct physical fl
 
 ## Key Features
 
-- [VLAN Segmentation & Trunking](VLAN segmentation & trunking/README.md).
+- VLAN Segmentation & Trunking.
 - Inter-VLAN Routing (Router-on-a-Stick).
 - Core Routing Matrix
 - Network Automation & Security: DHCP, SSH Secure Management, Switchport Port Security.
