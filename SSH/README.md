@@ -4,8 +4,6 @@ This module details the security hardening implementations deployed to protect t
 
 The implementation commands executed on the network devices are captured below:
 
-<img width="940" height="382" alt="ssh configuration" src="https://github.com/user-attachments/assets/34f3969e-23ae-4a2a-a68b-92650844ae83" />
-
 ```ciscoIOS
 
 hostname Floor3-Core
@@ -16,3 +14,7 @@ username yacine secret strongSecret
 line vty 0 4
 login local
 transport input ssh
+```
+
+<img width="940" height="382" alt="ssh configuration" src="https://github.com/user-attachments/assets/34f3969e-23ae-4a2a-a68b-92650844ae83" />
+
