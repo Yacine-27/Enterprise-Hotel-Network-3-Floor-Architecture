@@ -6,7 +6,7 @@ The implementation commands executed on the network devices are captured below:
 
 <img width="940" height="382" alt="ssh configuration" src="https://github.com/user-attachments/assets/34f3969e-23ae-4a2a-a68b-92650844ae83" />
 
-``ciscoIOS
+```ciscoIOS
 
 hostname Floor3-Core
 ip domain-name project.ccna
