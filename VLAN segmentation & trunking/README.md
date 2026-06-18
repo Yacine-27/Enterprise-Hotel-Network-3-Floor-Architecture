@@ -32,34 +32,14 @@ switchport trunk allowed vlan 60,70,80
 ```
 ## Verification
 
-Using the show vlan brief and show interfaces trunk commands:
+Using the "show vlan brief" and "show interfaces trunk" commands (Example shown for **Floor 1 Router**):
 
 ### Floor 1:
 Showing access ports:
 
-<img width="1764" height="934" alt="SW1 vlan" src="https://github.com/user-attachments/assets/396f3e5d-6065-4d94-bc86-275e6e46e1f2" />
+<img width="882" height="476" alt="SW1 vlan" src="https://github.com/user-attachments/assets/396f3e5d-6065-4d94-bc86-275e6e46e1f2" />
 
 Showing trunk ports:
 
-<img width="1912" height="737" alt="SW1 trunk links" src="https://github.com/user-attachments/assets/304b2383-799f-4534-beff-a412258570c5" />
-
-### Floor 2:
-
-Showing access ports:
-
-<img width="1788" height="948" alt="SW2 vlan" src="https://github.com/user-attachments/assets/50d4cc03-360a-4c12-b316-698192ec874a" />
-
-Showing trunk ports:
-
-<img width="1543" height="767" alt="SW2 trunk links" src="https://github.com/user-attachments/assets/cff59cbd-2eb5-4d18-bda2-3c46037364a2" />
-
-### Floor 3:
-
-Showing access ports:
-
-<img width="1779" height="929" alt="SW3 vlan" src="https://github.com/user-attachments/assets/68993dc7-3ea6-4b52-b582-2e6785eca52a" />
-
-Showing trunk ports:
-
-<img width="1680" height="722" alt="SW3 trunk links" src="https://github.com/user-attachments/assets/d5568238-904e-4a56-9dd6-d93e46f78098" />
+<img width="956" height="368" alt="SW1 trunk links" src="https://github.com/user-attachments/assets/304b2383-799f-4534-beff-a412258570c5" />
 
