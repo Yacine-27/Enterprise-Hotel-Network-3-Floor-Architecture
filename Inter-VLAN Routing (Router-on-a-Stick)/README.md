@@ -22,7 +22,12 @@ ip address 192.168.5.1 255.255.255.0
 
 Using the "show ip int br" and "ping" commands (Example shown for **Floor 2 Router**):
 
-<img width="1883" height="690" alt="router-2 interfaces" src="https://github.com/user-attachments/assets/0f6b6fb6-22bb-4e42-a5d4-41000ba6514e" />
+Showing sub-interfaces on the router
 
-<img width="1918" height="1080" alt="pinging Vlan 30 to 40 and 50" src="https://github.com/user-attachments/assets/c4a73c8f-bfcf-4918-8981-57be910bdb4b" />
+<img width="941" height="345" alt="router-2 interfaces" src="https://github.com/user-attachments/assets/880a7a6e-1128-4707-8a2f-f7c20cf666a2" />
+
+Showing pings from different vlans (inter-vlan routing):
+
+<img width="760" height="448" alt="pinging Vlan 30 to 40 and 50" src="https://github.com/user-attachments/assets/79c338a0-a9b2-4b0c-b61d-1edafe79765b" />
+
 
