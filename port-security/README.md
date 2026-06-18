@@ -4,7 +4,7 @@ This module details the edge-layer security controls implemented to protect phys
 
 The implementation commands executed across the edge interface blocks are captured below:
 
-<img width="760" height="540" alt="port security" src="https://github.com/user-attachments/assets/b903ff00-b49f-4a20-9c69-4c5fb85a0d80" />
+<img width="755" height="401" alt="port security" src="https://github.com/user-attachments/assets/28e606f9-8b8e-4966-bd83-fbda63aefb54" />
 
 
 ```CiscoIOS
