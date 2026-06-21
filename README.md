@@ -6,9 +6,9 @@ The project demonstrates advanced networking concepts including VLAN segmentatio
 
 The infrastructure isolates department traffic across three distinct physical floors while maintaining secure inter-departmental communication through a triangular core routing matrix.
 
-  Floor 1 (Operations): Reception, Store, Logistics, and localized Guest/Staff Wi-Fi.
-  Floor 2 (Corporate): Finance, HR, Sales, and Corporate Wi-Fi.
-  Floor 3 (Management & Infrastructure): Administration, IT Operations, and Executive Wi-Fi.
+ - Floor 1 (Operations): Reception, Store, Logistics, and localized Guest/Staff Wi-Fi.
+ - Floor 2 (Corporate): Finance, HR, Sales, and Corporate Wi-Fi.
+ - Floor 3 (Management & Infrastructure): Administration, IT Operations, and Executive Wi-Fi.
 
 <img width="1536" height="1024" alt="thumbnail" src="https://github.com/user-attachments/assets/2ae71348-c6dc-4ee9-8ade-6303b666b947" />
 
